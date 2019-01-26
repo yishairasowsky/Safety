@@ -1,4 +1,6 @@
-## Guidelines for Keeping Safe
+# Welcome to Safety
+
+## Guidelines for Keeping out of Danger
 
 ### Common Household Injuries
 1) Falling objects. ...
@@ -9,6 +11,7 @@
 6) Burns. ...
 7) Choking. ...
 8) Poisoning.
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
